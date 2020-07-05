@@ -1,2 +1,2 @@
 # santri
-Sistem Penilaian Santri
+Sistem Penilaian Santri using Preact
